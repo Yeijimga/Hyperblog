@@ -4,9 +4,17 @@ color:#333;
 text-align: center;
 font-family: "Arial";
 font-size: 16px;
-margin: ;
-
+margin: 0;
+padding: 0;
+}
+   #container
+{
+    width: 70%;
+    padding: 1em;
     text-align: center;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: medium;
+    border: 1px solid   #000;
+    margin: 0 auto; 
 }   
+{
+    font-size: 20px;
+}
